@@ -1,0 +1,8 @@
+#Mkdir -p This command is handy and much easer to create a nested folders into each other.
+
+#cd the most command used to navigate between your dir's
+
+# ls-a That is helpfull to check if the folder is cloned to your PC and has .git folder into it (hidden folders).
+
+# Git commands all of them as far as we learned about them is huge helpfull and capable of a lot of things,It's amazing how we can work on project together.
+
