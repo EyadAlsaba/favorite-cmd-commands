@@ -7,3 +7,5 @@
 # Git commands all of them as far as we learned about them is huge helpfull and capable of a lot of things,It's amazing how we can work on project together.
 
 # git checkout to switch between bracnches. 
+
+# git log --all --decorate --oneline --graph. 
